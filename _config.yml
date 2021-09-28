@@ -1,0 +1,56 @@
+name: Trevor Lauder
+description: Senior SRE, SkipTheDishes
+meta_description: Everything SRE, DevOps, Systems Administration and Code
+logo:
+author:
+  image: /authorimage.jpg
+  greetings:
+favicon: assets/images/favicon.ico
+baseurl: /trevor
+production_url: https://www.lauder.family/
+disqus: trevor-lauder
+mailchimp_url:
+ga_analytics: G-1F9WKFBP24
+
+formspree: mbjqwvgk
+contact_page_description: Have any questions about the content on this page?  You are welcome to contact me using the form below!
+thankyou_page_description: Your message has been successfully sent.
+
+twitter: trevorlauder
+linkedin: trevor-lauder
+github: trevorlauder
+facebook:
+codepen:
+dribbble:
+medium:
+instagram:
+pinterest:
+
+producthunt:
+quora:
+
+navigation:
+  - text: Home
+    url: /trevor/
+  - text: About
+    url: /trevor/about
+  - text: Contact Me
+    url: /trevor/contact
+  - text: Search
+    url: /trevor/search
+
+plugins:
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+paginate: 5
+paginate_path: /page:num/
+
+permalink: /:title
+
+markdown: kramdown
+
+sass:
+  sass_dir: _sass
+  style: compressed
