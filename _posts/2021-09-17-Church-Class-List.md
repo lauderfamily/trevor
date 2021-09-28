@@ -8,4 +8,4 @@ When syncing [Member Tools](https://apps.apple.com/us/app/lds-tools/id391093033)
 
 I'm assuming this is a bug as I can see class information for individual members in the Directory.
 
-I wrote this [project](https://github.com/trevorlauder/church-class-list) to retrieve the data and output the members of the class I enter.  I include a Docker image, or you can run it on iOS with [Pythonista](https://omz-software.com/pythonista/).
+I wrote this [project](https://github.com/trevorlauder/church-class-list) to retrieve the data and output the class list.  I include a Docker image, or you can run it on iOS with [Pythonista](https://omz-software.com/pythonista/).
