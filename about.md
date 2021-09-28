@@ -5,7 +5,9 @@ title: About
 
 >Practice the philosophy of continuous improvement. Get a little bit better every single day. <cite>Brian Tracy</cite>
 
-Trevor Lauder is a Site Reliability Engineer living in Sylvan Lake, Alberta, Canada and currently works for SkipTheDishes.
+Trevor Lauder is a Senior Site Reliability Engineer living in Sylvan Lake, Alberta, Canada.  With over 20+ years of experience, he has held roles as a Systems Administrator, Staff Systems Engineer, Principal Application Ops Engineer, and Senior Site Reliability Engineer with [SkipTheDishes](https://www.skipthedishes.com), [Intuit](https://www.intuit.com/ca/), [TELUS](https://www.telus.com), [LAN Solutions](https://www.lansolutions.ca), Wireless Networks Inc, and [Lethbridge College](https://lethbridgecollege.ca).  He currently works for [SkipTheDishes](https://www.skipthedishes.com).
+
+He is a top-performing operations and systems engineer with a strong focus on automating deployments and production operations tasks. He specializes in designing and building solutions on top of a large variety of DevOps tools including, Puppet, Chef, Terraform, Docker, and Jenkins.  His go-to language is Python, and he has experience with Ruby, Javascript, and Bash.  He is driven and self-motivated, working remotely for the past 10+ years with a high level of trust and autonomy.
 
 *Thank You for reading!*
 
